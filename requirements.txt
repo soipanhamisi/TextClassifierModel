@@ -1,3 +1,5 @@
+plotly
+wordcloud
 spacy
 numpy
 seaborn
